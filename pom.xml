@@ -6,7 +6,7 @@
   <groupId>com.deville</groupId>
   <artifactId>greeting</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <name>greeting</name>
 
     <parent>
@@ -57,7 +57,7 @@
 			</plugins>
 		</pluginManagement>
     </build>
-fdasfsaf
+
     <repositories>
         <repository>
             <id>spring-releases</id>
